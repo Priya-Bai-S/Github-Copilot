@@ -37,7 +37,7 @@ In this exercise, you will utilize Copilot to generate code in ARM, Terraform an
 
    ![](../media/arm-new-file.png)
 
-1. Press `CTRL + S` to save the file. Name the file as `arm.json` and click on **OK**
+1. Press `CTRL + S` to save the file. Name the file as `arm.json` and click on **OK**.
 
    ![](../media/arm-save.png)
 
@@ -61,7 +61,7 @@ In this exercise, you will utilize Copilot to generate code in ARM, Terraform an
 
    ![](../media/terraform-new-file.png)
 
-1. Press `CTRL + S` to save the file. Name the file as `terraform.tf` and click on **OK**
+1. Press `CTRL + S` to save the file. Name the file as `terraform.tf` and click on **OK**.
 
    ![](../media/terraform-save.png)
 
