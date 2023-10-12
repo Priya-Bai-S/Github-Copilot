@@ -2,7 +2,7 @@
 
 1. You can see a virtual machine desktop 💻 (**LABVM**) is loaded on the left side in your browser. Use this virtual machine throughout the workshop to perform the lab. You can also connect to the virtual machine using any RDP client using the **LABVM** credentials provided in the **Environment Details** tab.
    
-   ![](../media/env-page.png)
+   ![](../media/GetStart-S1.png)
 
 1. Once you are in **Environment Details** tab. Additionally, the credentials will also be emailed to your registered email address. Click on **GitHub Credentials** option to get GitHub User Credetials. You can also open the Lab Guide in a separate and full window by selecting the **Split Window** from the lower right corner. Also, you can start, stop and restart virtual machines from the **Resources** tab.
  
@@ -10,7 +10,11 @@
  
 ## Login to GitHub
 
-1. In the LABVM desktop, click on the Microsoft Edge browser and navigate to GitHub login page using the provided URL below:
+1. In the LABVM desktop search for **Microsoft Edge (1)** , click on **Microsoft Edge (2)** browser.
+
+   ![](../media/Edge.png)
+   
+1. Navigate to GitHub login page using the provided URL below:
 
    ```
    https://github.com/login
@@ -26,7 +30,7 @@
 
    ![](../media/authgit.png)
 
-1. Right-click on **Start course**, click on **Copy link** and navigate to the link inside LabVM in the Edge browser where you have logged into GitHub in the previous steps.
+1. Right-click on **Start course** given below, click on **Copy link** and navigate to the link inside LabVM in the Edge browser where you have logged into GitHub in the previous steps.
 
    <!-- For start course, run in JavaScript:
    'https://github.com/new?' + new URLSearchParams({
