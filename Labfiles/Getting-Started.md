@@ -22,7 +22,7 @@
    
    ![](../media/github-login.png)
           
-1. Next, to get the authentication code sign in to Outlook (https://outlook.office365.com/mail/) with the git credentials provided in the Environment details page and enter the verification code and click on **Verify**.
+1. Next, to get the authentication code sign in to Outlook (https://outlook.office365.com/mail/) with the git credentials provided in the Environment details page. Enter the verification code and click on **Verify**.
 
    ![](../media/authgit.png)
 
@@ -47,7 +47,7 @@
 
 1. After your new repository is created, wait about 20 seconds and then refresh the page.
 
-1. Once the repository is created, select your profile photo, then select **Your organizations**.
+1. Once the repository is created, click on your profile picture, then select **Your organizations**.
 
    ![](../media/organization.png)
 
