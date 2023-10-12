@@ -8,7 +8,7 @@ In this exercise, you will have the opportunity to experiment with and apply Jav
 
 ## Task 1: Add a JavaScript file and start writing code
 
-1. From the VS Code explorer window, create a new file.
+1. From the VS Code explorer window, create a New File.
 
    ![](../media/create-newfile.png)
 
@@ -26,8 +26,8 @@ In this exercise, you will have the opportunity to experiment with and apply Jav
 
    ![](../media/skills-function.png)
 
-1. Press `Tab` to accept the suggestion and then save the file.
-
+1. Press `Tab` to accept the suggestion and then press `Ctrl+S` to save the file.
+   
    ![](../media/save-skills.png)
 
 ## Task 2: Push code to your repository from the codespace
@@ -85,15 +85,15 @@ pair programmer can be really useful. It helps to prime GitHub Copilot with a bi
 When prompting GitHub Copilot, think of the process as having a conversation with someone: How should I break down the problem so we can solve it together? How would I approach pair 
 programming with this person?
 
-1. From the VS Code explorer window, create a new file.
+1. From the VS Code explorer window, create a New File.
 
-   ![](../media/create-newfile.png)
+   ![](../media/E2-T3.1-S1.png)
 
 1. Name the file `index.js` and verify your new file looks as shown below:
 
-   ![](../media/ex2-index.png)
+   ![](../media/E2-T3.1-S2.png)
 
-1. Now press **Ctrl+I** to open the GitHub Copilot Chat and paste the following **comments (1)** to create a basic markdown editor and click on **Make request(Enter) (2)** button.
+1. Now press **Ctrl+I** to open the GitHub Copilot Chat and paste the following **comments (1)** to create a basic markdown editor and click on **Make request (Enter) (2)** button.
 
    ```
    /*
@@ -129,7 +129,7 @@ Let GitHub Copilot generate the code after each step, rather than asking it to g
     // the start of the new sentence must be capital
     ```
 
-1. The generated outcome whould look similar to belwo image.
+1. The generated outcome would look similar to below image.
 
    ![](../media/ex2-reverse-sentence-output.png)
 
@@ -184,7 +184,7 @@ new array:
    git add index.js
    ```
 
-1. Next from the VS Code terminal stage and commit the changes to the repository:
+1. Next from the VS Code terminal, commit the changes to the repository:
 
    ```
    git commit -m "Copilot first commit"
@@ -199,7 +199,7 @@ new array:
    >**Note**: Wait about 60 seconds then refresh your GitHub repository landing page for the next step.
 
 
-1. Click on **Next** from the bottom right to continue with the next exercies.
+1. Click on **Next** from the bottom right to continue with the next exercises.
 
 ### Summary
 
