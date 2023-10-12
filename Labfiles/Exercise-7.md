@@ -76,7 +76,7 @@ In this exercise, the primary objective is to leverage the capabilities of GitHu
 
 1. You can verify the new added files available in your GitHub repository.
 
-   ![](../media/ex-6-github.png)
+   ![](../media/E6-T3-S5.png)
 
 ### Summary
 
