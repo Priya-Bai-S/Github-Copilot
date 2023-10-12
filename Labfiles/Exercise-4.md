@@ -123,4 +123,4 @@ In this exercise, you will utilize Copilot to generate code in ARM, Terraform an
 
 ### Summary
 
-In this exercise, you have successfully installed the GitHub Copilot Chat extension, and you have employed Copilot to automatically generate code in both ARM, Terraform and PowerShell programming languages.
+In this exercise, you have employed Copilot to automatically generate code in both ARM, Terraform and PowerShell programming languages.
