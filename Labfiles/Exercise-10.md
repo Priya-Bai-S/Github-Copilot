@@ -13,33 +13,33 @@ vary.
 
    ![](../media/ex10-github-copilot-labs.png)
 
-1. As Soon as you download the extension you will see a prompt that’s says sign in.
+1. As soon as you download the extension you will see a prompt that’s says sign in.
 
    ![](../media/ex10-github-signin.png)
 
 1. Clicking on the sign in browser window should now open to GitHub's authentication page to ask for your authorization. Click Continue.  
 
-1. An Open Visual Studio Code. App? pop-up will now appear. Click on Open Visual Studio Code.app to continue
+1. An Visual Studio Code pop-up will appear now. Click on **Allow** continue.
 
    ![](../media/ex10-allow.png)
 
-1. Back on VS Code, a pop-up will appear asking to allow the Copilot Extension to open the URI. Click Open to continue.
+1. Back on VS Code, a pop-up will appear asking to allow the Copilot Extension to open the URI. Click **Open** to continue.
 
    ![](../media/ex10-open.png)
 
-1. Close / Exit VS Code then run VS Code again.
+1. Close / Exit Visual Studio Code, then run VS Code again.
 
-1. Now click on the Icon marked in red to open the Copilot labs Section.
+1. Now click on the icon marked in red to open the Copilot labs Section.
 
    ![](../media/ex10-copilot-labs.png)
 
 ## Task 2: Working with copilot tools
 
-1. Code Explanation- This tool explains the code. To use this feature, select the code for which you want an explanation and navigate to the tools section, then click **Ask Copilot**.
+1. Code Explanation- This tool explains the code. To use this feature, **select the code** for which you want an explanation and navigate to the tools section, then click **Ask Copilot**.
 
    ![](../media/ex10-ask-copilot.png)
 
-1. Once you click the Asl Copilot,  you will find the explanation of the code below.
+1. Once you click the Ask Copilot, you will find the explanation of the code below.
 
    ![](../media/ex10-code-result.png)
 
@@ -48,7 +48,7 @@ vary.
 
    ![](../media/ex10-fixbug.png)
 
-1. Here’s an example of how this works in the first image wrong library was imported then after using the fix bug 	we can see that the issue was resolved.
+1. Here’s an example of how this works, in the first image wrong library was imported then after using the fix bug we can see that the issue was resolved.
 
    ![](../media/ex10-debug1.png)
 
@@ -63,8 +63,7 @@ vary.
 
    ![](../media/ex10-debug-output.png)
 
-1. A tool like this is important if you are trying to work on different matrixes, or if you want to visualize the code. This code generally provides a visualized output for better 
-   understanding. To start with this, you need to select the code and use the tool.
+1. A tool like this is important if you are trying to work on different matrices, or if you want to visualize the code. This code generally provides a visualized output for better understanding. To start with this, you need to select the code and use the tool.
 
    ![](../media/ex10-debug3.png)
 
